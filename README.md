@@ -1,4 +1,4 @@
-#Multi-Building Energy Demand Forecasting
+## Multi-Building Energy Demand Forecasting
 
 An end-to-end time series forecasting project on real commercial/institutional building energy data — built to go beyond typical single-series, residential-dataset student projects by using **global forecasting models**, **probabilistic (quantile) forecasting**, and a **multi-site, multi-building** structure, deployed as an interactive dashboard.
 
